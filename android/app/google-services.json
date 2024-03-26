@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "268120911231",
+    "project_id": "expensifly-13ea1",
+    "storage_bucket": "expensifly-13ea1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268120911231:android:06e9ff8cf130b9cb80be4a",
+        "android_client_info": {
+          "package_name": "com.example.expensifly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCscWFwzYh0JxNvLI6v4dcGoflPFNt_sLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

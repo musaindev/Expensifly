@@ -1,0 +1,77 @@
+name: expensifly
+description: "A new Flutter project."
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.5 <4.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+
+  cupertino_icons: ^1.0.2
+  loading_animation_widget: ^1.2.0+4
+  firebase_core:
+  cloud_firestore:
+  intl: ^0.19.0
+  toggle_switch: ^2.1.0
+  flutter_slidable: ^3.0.1
+  get_storage: ^2.1.1
+  firebase_messaging: ^14.7.18
+  sync_ease: ^0.0.7
+  flutter_launcher_icons: ^0.13.1
+
+
+
+
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^2.0.0
+
+
+
+flutter_icons:
+    android: true
+    ios: false
+    image_path: "assets/images/flash_screen/play_store.png"
+
+
+
+
+flutter:
+
+
+  uses-material-design: true
+
+
+  assets:
+    - assets/images/auth/
+    - assets/images/flash_screen/
+    - assets/images/appBar/
+    - assets/images/home/
+
+
+
+
+  fonts:
+    - family: Roboto
+      fonts:
+        - asset: assets/Fonts/Roboto-Black.ttf
+    - family: BebasNeue
+      fonts:
+        - asset: assets/Fonts/BebasNeue-Regular.ttf
+
+
+
